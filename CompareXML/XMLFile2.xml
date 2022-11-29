@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+	<HEADER>
+		<VERSION>
+			1.0
+		</VERSION>
+		<SENDER_CODE>
+			967
+		</SENDER_CODE>
+		<SENDER_NAME>
+			Chi cục thuế khu vực 7
+		</SENDER_NAME>
+		<RECEIVER_CODE>
+			967
+		</RECEIVER_CODE>
+		<RECEIVER_NAME>
+			Chi cục thuế Chi cục thuế khu vực 7
+		</RECEIVER_NAME>
+		<TRAN_CODE>
+			XOW2NW25FW3B
+		</TRAN_CODE>
+		<REQUEST_ID>
+			e2ebcc29-13e5-45e7-9839-6ec9a4ecb0b4
+		</REQUEST_ID>
+		<REQUEST_DATE>
+			09-Nov-2022 11:28:21
+		</REQUEST_DATE>
+		<ORIGINAL_CODE>
+			967
+		</ORIGINAL_CODE>
+		<ORIGINAL_NAME>
+			Chi cục thuế khu vực 7
+		</ORIGINAL_NAME>
+		<ORIGINAL_DATE>
+			09-Nov-2022 11:28:21
+		</ORIGINAL_DATE>
+		<ERROR_CODE/>
+		<ERROR_DESC/>
+		<NGAYCHUYEN>
+			09/11/2022
+		</NGAYCHUYEN>
+		<NGUOICHUYEN>
+			Chi cục thuế khu vực 7
+		</NGUOICHUYEN>
+	</HEADER>
+	<BODY id="e2ebcc29-13e5-45e7-9839-6ec9a4ecb0b4">
+		<ROW>
+			<SYSTEM_INFO>
+				<MSG_TYPE>
+					10
+				</MSG_TYPE>
+				<SEQ_ID>
+				</SEQ_ID>
+				<SEQ_REFID/>
+				<ERROR_NOTE/>
+			</SYSTEM_INFO>
+			<TT_CHUNG>
+				<MA_HS>
+					000.00.28.H12-221009-0004
+				</MA_HS>
+				<MA_GCN>
+					3206522034389
+				</MA_GCN>
+				<SO_PHIEU>
+					thi_tran thoi binh2
+				</SO_PHIEU>
+				<NGAY_DUYET>
+					09/11/2022
+				</NGAY_DUYET>
+				<NGUOI_DUYET>
+					Admin
+				</NGUOI_DUYET>
+				<LOAI_DENGHI DM="DM_LoaiDeNghi">
+					01
+				</LOAI_DENGHI>
+				<LOAI_HOSO DM="DM_LoaiHoSo">
+					BD12
+				</LOAI_HOSO>
+				<DK_GHINO_NVTC>
+				</DK_GHINO_NVTC>
+				<TT_NO_NVTC/>
+				<TT_SOHUU DM="DM_ThongTinSoHuu">
+					Một chủ một thửa
+				</TT_SOHUU>
+				<HSPL_VEDAT>
+				</HSPL_VEDAT>
+				<THOIDIEM_NOPHS/>
+				<SO_GCN_QSD>
+					N_A1665557644
+				</SO_GCN_QSD>
+				<NGAYCAP_GCN>
+					01/01/1970
+				</NGAYCAP_GCN>
+				<NOI_CAP_GCN>
+					Sở Tài nguyên và Môi trường tỉnh
+				</NOI_CAP_GCN>
+			</TT_CHUNG>
+			<TT_NSD>
+				<NGUOI_MUA>
+					<DOITUONG DM="DM_LoaiDoiTuong">
+					</DOITUONG>
+					<HOTEN>
+						Trương Ngọc Ẩn
+					</HOTEN>
+					<LOAI_GIAYTO DM="DM_LoaiGiayTo">
+						LG01
+					</LOAI_GIAYTO>
+					<SO_GIAYTO>
+						380967843
+					</SO_GIAYTO>
+					<NGAYCAP>
+						13/01/2005
+					</NGAYCAP>
+					<NOICAP>
+					</NOICAP>
+					<NSD_TINH DM="DM_Tinh">
+						96
+					</NSD_TINH>
+					<NSD_HUYEN DM="DM_Huyen">
+						964
+					</NSD_HUYEN>
+					<NSD_XA DM="DM_XaPhuong">
+						32002
+					</NSD_XA>
+					<DIACHI>
+						Phường 4, thành phố Cà Mau, tỉnh Cà Mau
+					</DIACHI>
+					<MST>
+					</MST>
+					<DIENTHOAI>
+					</DIENTHOAI>
+					<EMAIL>
+					</EMAIL>
+					<FAX>
+					</FAX>
+					<TY_LE_SH>
+					</TY_LE_SH>
+					<MA_MG DM="DM_DTMG">
+					</MA_MG>
+					<TEN_MG>
+					</TEN_MG>
+				</NGUOI_MUA>
+				<NGUOI_MUA>
+					<DOITUONG DM="DM_LoaiDoiTuong">
+					</DOITUONG>
+					<HOTEN>
+						Nguyễn Tuyết Ánh
+					</HOTEN>
+					<LOAI_GIAYTO DM="DM_LoaiGiayTo">
+						LG01
+					</LOAI_GIAYTO>
+					<SO_GIAYTO>
+						V/C-3200200055
+					</SO_GIAYTO>
+					<NGAYCAP>
+					</NGAYCAP>
+					<NOICAP>
+					</NOICAP>
+					<NSD_TINH DM="DM_Tinh">
+						96
+					</NSD_TINH>
+					<NSD_HUYEN DM="DM_Huyen">
+						964
+					</NSD_HUYEN>
+					<NSD_XA DM="DM_XaPhuong">
+						32002
+					</NSD_XA>
+					<DIACHI>
+						Phường 4, thành phố Cà Mau, tỉnh Cà Mau
+					</DIACHI>
+					<MST>
+					</MST>
+					<DIENTHOAI>
+					</DIENTHOAI>
+					<EMAIL>
+					</EMAIL>
+					<FAX>
+					</FAX>
+					<TY_LE_SH>
+					</TY_LE_SH>
+					<MA_MG DM="DM_DTMG">
+					</MA_MG>
+					<TEN_MG>
+					</TEN_MG>
+				</NGUOI_MUA>
+				<NGUOI_BAN>
+					<DOITUONG DM="DM_LoaiDoiTuong">
+					</DOITUONG>
+					<HOTEN>
+						NGUYỄN TIẾN LÊN
+					</HOTEN>
+					<LOAI_GIAYTO DM="DM_LoaiGiayTo">
+						LG01
+					</LOAI_GIAYTO>
+					<SO_GIAYTO>
+						381843741
+					</SO_GIAYTO>
+					<NGAYCAP>
+					</NGAYCAP>
+					<NOICAP>
+					</NOICAP>
+					<NSD_TINH DM="DM_Tinh">
+						96
+					</NSD_TINH>
+					<NSD_HUYEN DM="DM_Huyen">
+						967
+					</NSD_HUYEN>
+					<NSD_XA DM="DM_XaPhuong">
+						32065
+					</NSD_XA>
+					<DIACHI>
+						Ấp 10, xã thới bình, huyện thới bình, tỉnh cà mau
+					</DIACHI>
+					<MST>
+					</MST>
+					<DIENTHOAI>
+					</DIENTHOAI>
+					<EMAIL>
+					</EMAIL>
+					<FAX>
+					</FAX>
+					<TY_LE_SH>
+					</TY_LE_SH>
+					<MA_MG DM="DM_DTMG">
+					</MA_MG>
+					<TEN_MG>
+					</TEN_MG>
+				</NGUOI_BAN>
+				<NGUOI_BAN>
+					<DOITUONG DM="DM_LoaiDoiTuong">
+					</DOITUONG>
+					<HOTEN>
+						NGUYỄN TIẾN LÊN
+					</HOTEN>
+					<LOAI_GIAYTO DM="DM_LoaiGiayTo">
+						LG01
+					</LOAI_GIAYTO>
+					<SO_GIAYTO>
+						381843741
+					</SO_GIAYTO>
+					<NGAYCAP>
+					</NGAYCAP>
+					<NOICAP>
+					</NOICAP>
+					<NSD_TINH DM="DM_Tinh">
+						96
+					</NSD_TINH>
+					<NSD_HUYEN DM="DM_Huyen">
+						967
+					</NSD_HUYEN>
+					<NSD_XA DM="DM_XaPhuong">
+						32065
+					</NSD_XA>
+					<DIACHI>
+						Ấp 10, xã thới bình, huyện thới bình, tỉnh cà mau
+					</DIACHI>
+					<MST>
+					</MST>
+					<DIENTHOAI>
+					</DIENTHOAI>
+					<EMAIL>
+					</EMAIL>
+					<FAX>
+					</FAX>
+					<TY_LE_SH>
+					</TY_LE_SH>
+					<MA_MG DM="DM_DTMG">
+					</MA_MG>
+					<TEN_MG>
+					</TEN_MG>
+				</NGUOI_BAN>
+				<NGUOI_DAIDIEN>
+					<DOITUONG DM="DM_LoaiDoiTuong">
+					</DOITUONG>
+					<HOTEN>
+					</HOTEN>
+					<LOAI_GIAYTO DM="DM_LoaiGiayTo">
+					</LOAI_GIAYTO>
+					<SO_GIAYTO>
+					</SO_GIAYTO>
+					<NGAYCAP>
+					</NGAYCAP>
+					<NOICAP>
+					</NOICAP>
+					<NSD_TINH DM="DM_Tinh">
+					</NSD_TINH>
+					<NSD_HUYEN DM="DM_Huyen">
+					</NSD_HUYEN>
+					<NSD_XA DM="DM_XaPhuong">
+					</NSD_XA>
+					<DIACHI>
+					</DIACHI>
+					<MST>
+					</MST>
+					<DIENTHOAI>
+					</DIENTHOAI>
+					<EMAIL>
+					</EMAIL>
+					<FAX>
+					</FAX>
+				</NGUOI_DAIDIEN>
+			</TT_NSD>
+			<TT_THUADAT ThuaDatId="B768ED90B75247C599C3652873597FE1">
+				<TT_DAT ThuaDatId="B768ED90B75247C599C3652873597FE1">
+					<SO_THUADAT>
+						85
+					</SO_THUADAT>
+					<SO_BANDO>
+						200221
+					</SO_BANDO>
+					<DC_THUADAT>
+						Khóm 1, thị trấn Thới Bình, huyện Thới Bình, tỉnh Cà Mau
+					</DC_THUADAT>
+					<TINH_TP DM="DM_Tinh">
+						96
+					</TINH_TP>
+					<QUAN_HUYEN DM="DM_Huyen">
+						967
+					</QUAN_HUYEN>
+					<XA_PHUONG DM="DM_XaPhuong">
+						32065
+					</XA_PHUONG>
+					<DUONG_KHUVUC DM="DM_Duong">
+						0001
+					</DUONG_KHUVUC>
+					<DDUONG_KHUVUC DM="DM_DoanDuongKV">
+						0001001
+					</DDUONG_KHUVUC>
+					<TEN_DOAN_DUONG/>
+					<DT_DAT>
+						71.8
+					</DT_DAT>
+				</TT_DAT>
+				<TT_GHINO>
+					<TSDD_DTICH>
+						0
+					</TSDD_DTICH>
+					<TSDD_NGAY>
+					</TSDD_NGAY>
+					<TSDD_NOIDUNG>
+					</TSDD_NOIDUNG>
+					<LPTB_DTICH>
+						0
+					</LPTB_DTICH>
+					<LPTB_NGAY>
+					</LPTB_NGAY>
+					<LPTB_NOIDUNG>
+						0
+					</LPTB_NOIDUNG>
+				</TT_GHINO>
+				<TT_CHITIET>
+					<TT_LOAIDAT DaMDSDId="776408771" ThuaDatId="B768ED90B75247C599C3652873597FE1">
+						<LOAIDAT DM="DM_LoaiDat">
+							002
+						</LOAIDAT>
+						<MDSD_HIENTAI DM="DM_MucDichSD">
+							ODT
+						</MDSD_HIENTAI>
+						<THOIDIEM_SDD>
+						</THOIDIEM_SDD>
+						<THOIHAN_SDD>
+							0
+						</THOIHAN_SDD>
+						<NGUONGOC_DAT DM="DM_NguonGocDat">
+							NG04
+						</NGUONGOC_DAT>
+						<HINH_THUC_SDD DM="DM_HinhThucSDD">
+							0
+						</HINH_THUC_SDD>
+						<DT_DAT>
+							71.8
+						</DT_DAT>
+						<DTSD_CHUNG>
+							0
+						</DTSD_CHUNG>
+						<DTSD_RIENG>
+							71.8
+						</DTSD_RIENG>
+						<DTSD_THM>
+							0
+						</DTSD_THM>
+						<DTSD_NHM>
+							0
+						</DTSD_NHM>
+					</TT_LOAIDAT>
+					<TT_GIAODAT>
+						<DTD_PHAI_NOP>
+							0
+						</DTD_PHAI_NOP>
+						<DTD_TRONG_HM>
+							0
+						</DTD_TRONG_HM>
+						<DTD_NGOAI_HM>
+							0
+						</DTD_NGOAI_HM>
+						<DTD_NGHIATRANG>
+							0
+						</DTD_NGHIATRANG>
+						<DTD_KHAC>
+							0
+						</DTD_KHAC>
+						<DT_KHONGNOP_TSDD>
+							0
+						</DT_KHONGNOP_TSDD>
+						<DOITUONGNOP_TSDD>
+						</DOITUONGNOP_TSDD>
+						<TIEN_BTGPMB>
+							0
+						</TIEN_BTGPMB>
+						<TTDAT_DA_NOP>
+							0
+						</TTDAT_DA_NOP>
+						<GIA_AN_DINH>
+							0
+						</GIA_AN_DINH>
+					</TT_GIAODAT>
+					<TT_THUEDAT>
+						<DTD_PN_TTD>
+							0
+						</DTD_PN_TTD>
+						<DTD_KPN_TTD>
+							0
+						</DTD_KPN_TTD>
+						<DT_DAT>
+							0
+						</DT_DAT>
+						<DT_MATNUOC>
+							0
+						</DT_MATNUOC>
+						<DT_THUEDAT_XDCTN>
+							0
+						</DT_THUEDAT_XDCTN>
+						<DT_MATNUOC_CD>
+							0
+						</DT_MATNUOC_CD>
+						<DT_MATNUOC_KCD>
+							0
+						</DT_MATNUOC_KCD>
+						<NGAY_BDAU_THUE>
+						</NGAY_BDAU_THUE>
+						<THOIHAN_THUE>
+							0
+						</THOIHAN_THUE>
+						<TDAT_TRA_MOT_LAN>
+							0
+						</TDAT_TRA_MOT_LAN>
+						<TDAT_DUOC_TRU>
+							0
+						</TDAT_DUOC_TRU>
+						<TDAT_BTGPMB>
+							0
+						</TDAT_BTGPMB>
+						<VITRI_MATNUOC DM="DM_ViTriDat">
+						</VITRI_MATNUOC>
+						<MUCDICH_SD DM="DM_MucDichSD">
+						</MUCDICH_SD>
+						<HINHTHUC_THUE DM="DM_HinhThucThueDat">
+						</HINHTHUC_THUE>
+					</TT_THUEDAT>
+					<TT_VITRI DaMDSDId="776408771" ViTriTinhThueId="776408771">
+						<MDSD_HIENTAI>
+							ODT
+						</MDSD_HIENTAI>
+						<KHU_VUC>
+							001
+						</KHU_VUC>
+						<VITRI>
+							001
+						</VITRI>
+						<MDSD_TCD>
+						</MDSD_TCD>
+						<DT_DAT>
+							71.8
+						</DT_DAT>
+						<DTICH_HT_LPTB>
+							0
+						</DTICH_HT_LPTB>
+						<DTICH_HT_TNCN>
+							0
+						</DTICH_HT_TNCN>
+						<DTICH_HT_TSDD>
+							0
+						</DTICH_HT_TSDD>
+						<MA_VI_TRI_TRUOC DM="DM_ViTriDat">
+						</MA_VI_TRI_TRUOC>
+						<DO_SAU>
+							0
+						</DO_SAU>
+						<LOAI_HEM>
+						</LOAI_HEM>
+					</TT_VITRI>
+				</TT_CHITIET>
+			</TT_THUADAT>
+			<TT_NHA>
+				<CAPNHA DM="DM_CapNha">
+				</CAPNHA>
+				<LOAINHA DM="DM_LoaiNha">
+				</LOAINHA>
+				<DTXD>
+				</DTXD>
+				<DTSXD>
+				</DTSXD>
+				<DTSHC_CDT>
+				</DTSHC_CDT>
+				<DTSHC_NSDD>
+				</DTSHC_NSDD>
+				<DTSH_RIENG>
+				</DTSH_RIENG>
+				<TYLE_CLCL>
+				</TYLE_CLCL>
+				<NGUONGOC_NHA DM="DM_NguonGocNha">
+				</NGUONGOC_NHA>
+				<NAM_HOANCONG>
+				</NAM_HOANCONG>
+				<CO_HSXN_NHADAT>
+					0
+				</CO_HSXN_NHADAT>
+				<DT_PT_RIENG_LE>
+				</DT_PT_RIENG_LE>
+				<DT_PT_KHONG_RIENG_LE>
+				</DT_PT_KHONG_RIENG_LE>
+				<DTICH_HT_NVTC>
+				</DTICH_HT_NVTC>
+			</TT_NHA>
+			<TT_CHUYENNHUONG>
+				<LOAI_CN>
+				</LOAI_CN>
+				<LOAI_BDS>
+				</LOAI_BDS>
+				<TEN_CHUDUAN>
+				</TEN_CHUDUAN>
+				<SO_HOPDONG>
+				</SO_HOPDONG>
+				<NGAY_HOPDONG>
+				</NGAY_HOPDONG>
+				<SO_HD_MUABAN>
+				</SO_HD_MUABAN>
+				<NOILAP_HD_MUABAN>
+				</NOILAP_HD_MUABAN>
+				<NGAY_HD_MUABAN>
+				</NGAY_HD_MUABAN>
+				<CQ_CHUNGTHUC>
+				</CQ_CHUNGTHUC>
+				<NGAY_CHUNGTHUC>
+				</NGAY_CHUNGTHUC>
+				<GIA_BANDAT_HD>
+					0
+				</GIA_BANDAT_HD>
+				<GIA_BANNHA_HD>
+					0
+				</GIA_BANNHA_HD>
+				<TONGGIA_MUA_HD>
+					0
+				</TONGGIA_MUA_HD>
+				<SCT_KHOANTRU>
+				</SCT_KHOANTRU>
+				<GIATRI_DUOCTRU>
+					0
+				</GIATRI_DUOCTRU>
+				<GIATRI_MUA>
+					0
+				</GIATRI_MUA>
+				<TONGGIA_BAN_HD>
+					0
+				</TONGGIA_BAN_HD>
+			</TT_CHUYENNHUONG>
+			<TT_MIENGIAM>
+				<DTMG>
+					0
+				</DTMG>
+				<SO_QDMG>
+				</SO_QDMG>
+				<NGAYRA_QDMG>
+				</NGAYRA_QDMG>
+				<CQCAP_QDMG>
+				</CQCAP_QDMG>
+				<DTMG_MA>
+				</DTMG_MA>
+				<DTMG_TEN>
+				</DTMG_TEN>
+				<DTMG_TY_LE>
+				</DTMG_TY_LE>
+				<DTMG_THOI_GIAN>
+				</DTMG_THOI_GIAN>
+			</TT_MIENGIAM>
+			<NVTC>
+				<NV_LPTB>
+					1
+				</NV_LPTB>
+				<NV_TSDD>
+				</NV_TSDD>
+				<NV_TNCN>
+					1
+				</NV_TNCN>
+				<NV_TIENTHUE>
+				</NV_TIENTHUE>
+			</NVTC>
+		</ROW>
+	</BODY>
+	<SECURITY>
+		<SIGNATURE>
+			##CHUKYSO##
+		</SIGNATURE>
+		<USERNAME>
+			##USERNAME##
+		</USERNAME>
+		<PASSWORD>
+			##PASSWORD##
+		</PASSWORD>
+	</SECURITY>
+</DATA>

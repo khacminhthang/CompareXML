@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-16"?>
+<xd:xmldiff version="1.0" srcDocHash="13591108764277152480" options="None" fragments="no" xmlns:xd="http://schemas.microsoft.com/xmltools/2002/xmldiff">
+  <xd:node match="1">
+    <xd:add type="2" prefix="xmlns" name="ns2" opid="1">http://www.Subaru.com</xd:add>
+    <xd:remove match="@xmlns:ns1" opid="1" />
+    <xd:add type="1" name="Subaru" ns="http://www.Subaru.com" prefix="ns2">
+      <xd:add type="2" name="model">Outback</xd:add>
+      <xd:add xmlns:ns2="http://www.Subaru.com">
+        <ns2:Muffler> 600 </ns2:Muffler>
+      </xd:add>
+      <xd:add type="1" name="Bumper" ns="http://www.Subaru.com" prefix="ns2">
+        <xd:add match="/1/2/2/1" opid="3" />
+      </xd:add>
+      <xd:add type="1" name="Floormat" ns="http://www.Subaru.com" prefix="ns2">
+        <xd:add match="/1/2/3/1" opid="2" />
+      </xd:add>
+      <xd:add xmlns:ns2="http://www.Subaru.com">
+        <ns2:WindShieldWipers> 25 </ns2:WindShieldWipers>
+      </xd:add>
+    </xd:add>
+    <xd:change match="1" opid="1" prefix="ns2">
+      <xd:change match="1" opid="1" prefix="ns2" />
+      <xd:change match="2" opid="1" prefix="ns2" />
+      <xd:change match="3" opid="1" prefix="ns2" />
+      <xd:change match="4" opid="1" prefix="ns2" />
+    </xd:change>
+    <xd:change match="2" opid="1" prefix="ns2">
+      <xd:change match="@model">Impreza</xd:change>
+      <xd:change match="1" opid="1" prefix="ns2">
+        <xd:change match="1"> 450 </xd:change>
+      </xd:change>
+      <xd:change match="2" opid="1" prefix="ns2">
+        <xd:add> 120 </xd:add>
+        <xd:remove match="1" opid="3" />
+      </xd:change>
+      <xd:change match="3" opid="1" prefix="ns2">
+        <xd:add> 65 </xd:add>
+        <xd:remove match="1" opid="2" />
+      </xd:change>
+      <xd:change match="4" opid="1" prefix="ns2" />
+    </xd:change>
+  </xd:node>
+  <xd:descriptor opid="1" type="prefix change" ns="http://www.Subaru.com" oldPrefix="ns1" newPrefix="ns2" />
+  <xd:descriptor opid="2" type="move" />
+  <xd:descriptor opid="3" type="move" />
+</xd:xmldiff>

@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\bin\Debug\netcoreapp3.1\CompareXML.exe
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\bin\Debug\netcoreapp3.1\CompareXML.deps.json
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\bin\Debug\netcoreapp3.1\CompareXML.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\bin\Debug\netcoreapp3.1\CompareXML.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\bin\Debug\netcoreapp3.1\CompareXML.dll
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\bin\Debug\netcoreapp3.1\CompareXML.pdb
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\bin\Debug\netcoreapp3.1\XmlDiffPatch.View.dll
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\bin\Debug\netcoreapp3.1\XmlDiffPatch.dll
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\obj\Debug\netcoreapp3.1\CompareXML.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\obj\Debug\netcoreapp3.1\CompareXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\obj\Debug\netcoreapp3.1\CompareXML.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\obj\Debug\netcoreapp3.1\CompareXML.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\obj\Debug\netcoreapp3.1\CompareXML.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\obj\Debug\netcoreapp3.1\CompareXML.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\obj\Debug\netcoreapp3.1\CompareXML.dll
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\obj\Debug\netcoreapp3.1\CompareXML.pdb
+C:\Users\LENOVO\Desktop\Study\CompareXML\CompareXML\obj\Debug\netcoreapp3.1\CompareXML.genruntimeconfig.cache
